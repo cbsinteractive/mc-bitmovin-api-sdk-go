@@ -2,11 +2,12 @@ package common
 
 import (
 	"github.com/bitmovin/bitmovin-api-sdk-go/log"
-	"github.com/bitmovin/bitmovin-api-sdk-go/rest"
 	"github.com/bitmovin/bitmovin-api-sdk-go/model"
+	"github.com/bitmovin/bitmovin-api-sdk-go/rest"
 	"github.com/bitmovin/bitmovin-api-sdk-go/serialization"
 
 	"encoding/json"
+	"errors"
 	"fmt"
 	"io/ioutil"
 	"net/http"
@@ -17,7 +18,6 @@ import (
 	"strconv"
 	"strings"
 	"time"
-	"errors"
 )
 
 type ApiClient struct {
