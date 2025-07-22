@@ -1,12 +1,4 @@
 github.com/bitmovin/bitmovin-api-sdk-go v1.30.0-alpha.0 h1:+y7hlUqh0rMWuRUr7tIlzsz2rPq+9QU/54BCkXl8YfA=
 github.com/bitmovin/bitmovin-api-sdk-go v1.30.0-alpha.0/go.mod h1:Ho8JxtJ2Yf6Gwi9z+5oXuEi2xaIFiFPSs70YuXA7eTo=
-github.com/bitmovin/bitmovin-api-sdk-go v1.233.0 h1:3YfBF+OdzfOHbOCSLcSJN4Tf5YIMi+IJR4OHEzNN4q0=
-github.com/bitmovin/bitmovin-api-sdk-go v1.233.0/go.mod h1:CycJEnWd1/5GuSf7Q7JBF/wPv0JaS9GMDHYHzc+f5uA=
-github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/mitchellh/mapstructure v1.5.0 h1:jeMsZIYE/09sWLaz43PL7Gy6RuMjD2eJVyuac5Z2hdY=
 github.com/mitchellh/mapstructure v1.5.0/go.mod h1:bFUtVrKA4DC2yAKiSyO/QUcy7e+RRV2QTWOzhPopBRo=
-github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
-github.com/stretchr/objx v0.1.0/go.mod h1:HFkY916IF+rwdDfMAkV7OtwuqBVzrE8GR6GFx+wExME=
-github.com/stretchr/testify v1.4.0/go.mod h1:j7eGeouHqKxXV5pUuKE4zz7dFj8WfuZ+81PSLYec5m4=
-gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
-gopkg.in/yaml.v2 v2.2.2/go.mod h1:hI93XBmqTisBFMUTm0b8Fm+jr3Dg1NNxqwp+5A1VGuI=
