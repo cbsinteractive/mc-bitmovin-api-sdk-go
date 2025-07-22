@@ -1,0 +1,18 @@
+# github.com/bitmovin/bitmovin-api-sdk-go v1.30.0-alpha.0
+## explicit
+github.com/bitmovin/bitmovin-api-sdk-go/account
+github.com/bitmovin/bitmovin-api-sdk-go/analytics
+github.com/bitmovin/bitmovin-api-sdk-go/common
+github.com/bitmovin/bitmovin-api-sdk-go/encoding
+github.com/bitmovin/bitmovin-api-sdk-go/general
+github.com/bitmovin/bitmovin-api-sdk-go/log
+github.com/bitmovin/bitmovin-api-sdk-go/model
+github.com/bitmovin/bitmovin-api-sdk-go/notifications
+github.com/bitmovin/bitmovin-api-sdk-go/pagination
+github.com/bitmovin/bitmovin-api-sdk-go/player
+github.com/bitmovin/bitmovin-api-sdk-go/query
+github.com/bitmovin/bitmovin-api-sdk-go/rest
+github.com/bitmovin/bitmovin-api-sdk-go/serialization
+# github.com/mitchellh/mapstructure v1.5.0
+## explicit; go 1.14
+github.com/mitchellh/mapstructure
